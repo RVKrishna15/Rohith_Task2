@@ -24,7 +24,7 @@ BMI = Weight (kg) / (Height × Height)
 4. Run:
 
 ```bash
-py calculator.py
+py CALCULATOR.py
 ```
 
 ## Example
